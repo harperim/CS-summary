@@ -2,7 +2,7 @@
 CS 개념들을 이해하고 정리하기 위한 개인 학습 노트입니다.  
 책 **『면접을 위한 CS 전공지식 노트』** 를 기반으로 각 장별로 정리하며, 직접 이해하고 다시 설명할 수 있도록 구성합니다.
 
-📅 **학습 기간: 2025.06.22 ~**   
+📅 학습 기간: 2025.06.22 ~   
 🧠 목적 : 단순 암기가 아닌 **이해 중심의 요약 및 복습** & CS 면접 준비   
 📙 참고 도서 : [『면접을 위한 CS 전공지식 노트』](https://www.google.com/search?gs_ssp=eJwBOQDG_woNL2cvMTFxYnQzd2N3bTABSibrqbTsoJHsnYTsnITtlZwgY3Mg7KCE6rO17KeA7IudIOuFuO2KuNnxHco&q=%EB%A9%B4%EC%A0%91%EC%9D%84%EC%9C%84%ED%95%9C+cs+%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D+%EB%85%B8%ED%8A%B8&oq=%EB%A9%B4%EC%A0%91%EC%9D%84%EC%9C%84%ED%95%9C&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIKCAIQABiiBBiJBTIHCAMQABjvBTIKCAQQABiABBiiBDIHCAUQABjvBTIKCAYQABiABBiiBNIBCDYwMDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
